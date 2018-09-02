@@ -1,5 +1,4 @@
-IFB Campus Taguatinga  
-Professor Lucas Moreira
+IFB Campus Taguatinga
 Disciplina: Aprendizagem de Máquina 
 _______________
 # Machine Learning IFB

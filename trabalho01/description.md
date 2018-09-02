@@ -1,9 +1,3 @@
-IFB Campus Taguatinga  
-Professor Lucas Moreira
-Disciplina: Aprendizagem de Máquina 
-
----------------------
-
 # Trabalho 01 
 
 O objetivo do primeiro trabalho é ambientar o(a) aluno(a) com a programação em Matlab/Octave, com a Álgebra Linear e o desenvolvimento de algoritmos numéricos. 
