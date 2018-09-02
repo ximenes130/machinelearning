@@ -1,5 +1,4 @@
-IFB Campus Taguatinga
-Disciplina: Aprendizagem de Máquina 
+Aprendizagem de Máquina - IFB Campus Taguatinga 
 _______________
 # Machine Learning IFB
 
